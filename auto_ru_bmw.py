@@ -62,4 +62,4 @@ with open("") as file:
 
 
 get_bmw("")
-#ссылка на машины
+
