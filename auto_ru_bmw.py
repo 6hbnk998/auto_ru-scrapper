@@ -29,7 +29,7 @@ def get_bmw(url):
         driver.quit()
 
     #после скачки html на стр коммент. код запроса
-    #открываем html файл
+
 with open("") as file:
     src = file.read()
 
